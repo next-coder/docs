@@ -106,3 +106,7 @@ Xcode提供了一种方法，在Scheme -> Edit Scheme -> Run -> Arguments -> Env
 调用main函数时，代码由开发者控制，则可以在main调用时打印启动时间，然后在各关键点打印时间，来计算main函数之后的启动时间。
 
 另外也可以通过上面介绍的Timer Profiler来看各操作时间。
+
+## 参考
+
+优化技术请参考[WWDC 2016的视频](https://developer.apple.com/videos/play/wwdc2016/406/)
